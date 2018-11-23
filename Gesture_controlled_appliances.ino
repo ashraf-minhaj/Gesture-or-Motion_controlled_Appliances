@@ -5,7 +5,7 @@
  * my youtube channel https://youtube.com/c/fusebatti
  */
 
-int s = 10;     //PIR outPin on digital 10
+int s = 12;     //PIR outPin on digital 10
 int led1 = 4;   //led1 on 4
 int led2 = 9;   //led2 on 9
 
